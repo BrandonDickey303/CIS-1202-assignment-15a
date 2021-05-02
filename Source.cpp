@@ -56,7 +56,7 @@ char character(char start, int offset)
         return ' ';
     }
 
-    return char(target)
+    return char(target);
 }
 
 int main()
